@@ -1,5 +1,5 @@
 
-# HTML
+# JavaScript / Html
 
-Html <hyper text mark-up lamguage>
+JavaScript / Html <hyper text mark-up lamguage>
 
